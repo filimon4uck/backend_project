@@ -1,5 +1,5 @@
 {
-  "name": "goit-node-rest-api",
+  "name": "backend_project",
   "type": "module",
   "scripts": {
     "start": "node ./app.js",
